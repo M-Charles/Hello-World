@@ -1,0 +1,52 @@
+<section id="StyleSwitcher" class="">
+
+
+            <a href="javascript:void(0)" class="switcher-btn"><i class="fa fa-gear fa-spin"></i></a>
+
+
+
+            <h3>Style Switcher</h3>
+
+
+
+            <div class="switcher-style">
+
+                <a href="index-fixedmenu.html" title="Style Two">Fixed Header Menu</a>
+
+            </div>
+
+            <div class="switcher-colors">
+
+                <a href="javascript:void(0)" title="02" class="color-switch red-1"></a>
+
+                <a href="javascript:void(0)" title="03" class="color-switch red-2"></a>
+
+                <a href="javascript:void(0)" title="04" class="color-switch orange-1"></a>
+
+                <a href="javascript:void(0)" title="05" class="color-switch orange-2"></a>
+
+                <a href="javascript:void(0)" title="06" class="color-switch yellow-2"></a>
+
+                <a href="javascript:void(0)" title="07" class="color-switch green-1"></a>
+
+                <a href="javascript:void(0)" title="08" class="color-switch green-2"></a>
+
+                <a href="javascript:void(0)" title="none" class="color-switch green-default"></a>
+
+                <a href="javascript:void(0)" title="09" class="color-switch blue-1"></a>
+
+                <a href="javascript:void(0)" title="10" class="color-switch blue-2"></a>
+
+                <a href="javascript:void(0)" title="11" class="color-switch purple-1"></a>
+
+                <a href="javascript:void(0)" title="12" class="color-switch purple-2"></a>
+
+                <a href="javascript:void(0)" title="13" class="color-switch main-color"></a>
+
+                <a href="javascript:void(0)" title="14" class="color-switch pink"></a>
+
+                <a href="javascript:void(0)" title="15" class="color-switch cumin"></a>
+
+            </div>
+
+        </section>

@@ -22,7 +22,14 @@
                 <a href="javascript:void(0)" title="03" class="color-switch red-2"></a>
 
  		<a href="quadcore.aspx" class="informatics"></a>
+		
 
             </div>
+
+	    <div>
+		<h3>Team QuadCore you can do this.</h3>
+		<h2>what did I do now</h2>
+
+	</div>
 
         </section>

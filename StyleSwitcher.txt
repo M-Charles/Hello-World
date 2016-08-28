@@ -21,7 +21,7 @@
 
                 <a href="javascript:void(0)" title="03" class="color-switch red-2"></a>
 
- 
+ 		<a href="quadcore.aspx" class="informatics"></a>
 
             </div>
 
